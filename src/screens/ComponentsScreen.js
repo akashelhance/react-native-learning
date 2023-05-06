@@ -3,7 +3,7 @@ import {Text, StyleSheet} from 'react-native';
 
 
 const ComponentsScreen = ()=>{
-    return <Text style = {styles.textStyle}> Hello this is Custom Compment</Text>
+    return <Text style = {styles.textStyle}> This is Custom Screen And it will be shown on home page</Text>
 }
 
 
